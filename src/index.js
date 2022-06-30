@@ -12,6 +12,7 @@ ReactDOM.render(
 );
 
 // prueba numero dos, muchos commts
+//seunda prueba de muchos commit e intentar hacer comentarios en los commit
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
